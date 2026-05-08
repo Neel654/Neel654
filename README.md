@@ -6,7 +6,7 @@ Hey, I'm Neel 👋
 [![Portfolio](https://img.shields.io/badge/Portfolio-neelprajapati.netlify.app-0b7285?style=for-the-badge&logo=vercel&logoColor=white)](https://neelprajapati.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neel-prajapati-3337b9289/)  
 [![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail)](mailto:nprajapati@torontomu.ca)  
-[(https://img.shields.io/badge/GitHub-Neel654-181717?style=for-the-badge&logo=github)](https://github.com/Neel654)  
+[![GitHub](https://img.shields.io/badge/GitHub-Neel654-181717?style=for-the-badge&logo=github)](https://github.com/Neel654)  
 
 🧠 Who I am
 -----------
