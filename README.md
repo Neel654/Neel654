@@ -1,71 +1,158 @@
 # 👋 Hi, I’m Neel Prajapati
 
-I’m a **software engineer in training** focused on backend systems, AI‑powered analytics, and practical web apps. I like building things that combine clean architecture with real‑world impact — from safety tools in the browser to storage engines and data pipelines. [page:0]
+I’m a Computer Science student and software engineer focused on backend systems, distributed applications, AI-powered analytics, and full-stack development. I enjoy building projects that combine scalable architecture, practical engineering, and real-world problem solving — from event-driven microservices and storage engines to analytics platforms and intelligent web applications.
 
-- 🎓 CS student & SWE intern (automation, data workflows, backend services)  
-- 🧠 Interests: backend engineering, data/ML, system design, and developer tooling  
+- 🎓 Computer Science student @ Toronto Metropolitan University  
+- 💼 Interested in Software Engineering, Backend Development, Data/ML, and Systems Engineering  
+- 🧠 Exploring distributed systems, storage internals, analytics pipelines, and scalable application design  
 - 🌎 Based in Ontario, Canada  
 
 ---
 
-## 🔧 Tech I work with
+# 🔧 Tech Stack
 
-**Languages:** Java, Python, JavaScript, SQL, C++  
-**Backend / Systems:** Spring Boot, Kafka, REST APIs, storage engines, Flask‑style Python apps  
-**Frontend:** HTML, CSS, React‑style SPAs, Vite, TailwindCSS, JS in the browser  
-**Data & ML:** Pandas, NumPy, scikit‑learn, ETL workflows, analytics projects  
-**Tools:** Git/GitHub, Docker, Linux, VS Code, Vercel, Netlify  
+## Languages
+Java • Python • JavaScript • SQL • C++  
 
----
+## Backend & Systems
+Spring Boot • Kafka • REST APIs • Flask • Distributed Systems • Storage Engines • WAL/SST Architectures • Microservices  
 
-## 🚀 Highlighted Projects
+## Frontend
+React-style SPAs • Vite • TailwindCSS • HTML • CSS • JavaScript • Responsive UI Development  
 
-### 🛡️ SafeSense – Browser‑Based AI Safety Assistant
-Browser‑only AI safety companion with **three modes**: gym form correction, driver fatigue detection, and fall detection, built using MediaPipe, Web Speech, and device motion APIs. All processing runs **entirely on‑device** for privacy. [page:0]  
-Repo: `SafeSense` · Live demo linked in the README
+## Data & Machine Learning
+Pandas • NumPy • scikit-learn • ETL Pipelines • Data Visualization • Predictive Modeling • Analytics Workflows  
 
----
-
-### 💳 Forage-Midas – Event‑Driven Transaction Microservice
-Spring Boot microservice from the JPMC Forage program that uses **Kafka, JPA, and H2** to ingest transaction events, maintain real‑time user balances, and expose REST endpoints for querying incentives via an external API. [page:0]  
-Repo: `Forage-Midas_654`
+## Developer Tools
+Git • GitHub • Docker • Linux • VS Code • Netlify • Vercel  
 
 ---
 
-### 🗄️ wrapkv-java – Lightweight Key‑Value Storage Engine
-Java project implementing a **WAL + SST‑style** key‑value store with Bloom Filters and a small server‑style interface, inspired by database internals. Built to learn about persistence, crash recovery, and read optimization. [page:0]  
-Repo: `wrapkv-java`
+# 🚀 Featured Projects
+
+## 💳 Midas Core — Event-Driven Transaction Processing System
+
+Spring Boot microservice built around event-driven architecture using Kafka for asynchronous transaction processing, JPA for persistence, and REST APIs for real-time balance management and incentive integration.
+
+### Highlights
+- Kafka-based transaction ingestion
+- Real-time account balance updates
+- RESTful API architecture
+- H2 database persistence
+- External incentive service integration
+
+**Tech:** Java, Spring Boot, Kafka, JPA, H2, Maven
 
 ---
 
-### 📊 Startup Performance Analysis – AI Analytics System
-Python analytics project organized with `src/`, `tests/`, and `docs` that uses an **ETL pipeline plus ML models** to evaluate startup performance. Designed as a maintainable analytics codebase rather than a one‑off notebook. [page:0]  
-Repo: `startup-performance-analysis`
+## 🗄️ WarpKV-Java — Persistent Key-Value Storage Engine
+
+Java-based storage engine implementing WAL-backed persistence, SST-style file storage, and Bloom Filter optimizations to explore database internals and backend systems engineering concepts.
+
+### Highlights
+- Write-Ahead Logging (WAL)
+- SST-style disk storage
+- Bloom Filter optimized reads
+- Crash recovery concepts
+- Server-style request handling
+
+**Tech:** Java, Gradle, File Storage Systems, Bloom Filters
 
 ---
 
-### 🏙️ Toronto Housing Market Analysis
-End‑to‑end **data science case study** on Toronto housing prices, from EDA and visualization to predictive modeling and feature importance, with all charts and code committed for reproducibility. [page:0]  
-Repo: `toronto-housing-analysis`
+## 📊 Startup Performance Analysis — AI Analytics Platform
+
+Structured Python analytics system designed around ETL workflows, machine learning pipelines, and maintainable project architecture for evaluating startup performance data.
+
+### Highlights
+- ETL data processing workflows
+- Machine learning evaluation pipelines
+- Modular analytics architecture
+- Automated testing structure
+- Documentation-first organization
+
+**Tech:** Python, Pandas, ML Workflows, ETL Pipelines
 
 ---
 
-### 💼 neel-portfolio – Developer Portfolio Site
-Single‑page portfolio built with **Vite + TailwindCSS + JavaScript**, deployed on Vercel and used as my public portfolio to showcase projects like SafeSense, wrapkv‑java, and Midas. [page:0]  
-Repo: `neel-portfolio`
+## 🏙️ Toronto Housing Market Analysis — Data Science & Predictive Modeling
+
+End-to-end data science project analyzing Toronto housing prices through exploratory analysis, visualization workflows, predictive modeling, and feature importance evaluation.
+
+### Highlights
+- Exploratory data analysis (EDA)
+- Statistical visualization
+- Predictive housing models
+- Correlation analysis
+- Feature importance evaluation
+
+**Tech:** Python, Pandas, Matplotlib, Machine Learning
 
 ---
 
-### 🚕 TMUber – Java Console Ride/Delivery Simulation
-Object‑oriented Java console app that simulates an Uber‑style platform with users, drivers, rides, and deliveries coordinated by a system manager and a menu‑driven CLI. [page:0]  
-Repo: `TmUber`
+## 📰 AI News Streamer — AI-Powered News Aggregation Platform
+
+Full-stack Python web application that fetches, processes, and summarizes news articles using AI-assisted workflows and delivers them through a clean browser-based interface.
+
+### Highlights
+- News aggregation workflows
+- AI-powered summarization
+- Python backend architecture
+- Frontend stream-style UI
+- Modular web application structure
+
+**Tech:** Python, Flask, JavaScript, HTML, CSS
 
 ---
 
-## 📫 Let’s connect
+## 💼 Neel Portfolio — Personal Developer Portfolio
 
-- 🌐 Portfolio: linked in `neel-portfolio` (deployed on Vercel) [page:0]  
-- 💼 LinkedIn: *(add your LinkedIn URL here)*  
-- 📧 Email: *(add your preferred email here)*  
+Responsive portfolio website built using modern frontend tooling to showcase software engineering projects, technical skills, and development experience.
 
-I’m always open to chatting about backend roles, data/ML work, and interesting engineering problems.
+### Highlights
+- Responsive SPA architecture
+- Vite-based frontend tooling
+- TailwindCSS UI design
+- Production deployment workflow
+- Project showcase integration
+
+**Tech:** JavaScript, Vite, TailwindCSS, Netlify/Vercel
+
+---
+
+## 🚕 TMUber — Console-Based Ride & Delivery Simulation
+
+Object-oriented Java application simulating an Uber-style ride and delivery platform with users, drivers, rides, deliveries, and terminal-based interaction flows.
+
+### Highlights
+- OOP-driven architecture
+- Ride & delivery simulation
+- Menu-driven CLI workflows
+- Domain entity modeling
+- System manager orchestration
+
+**Tech:** Java, CLI Applications, OOP Design
+
+---
+
+# 📈 Areas of Interest
+
+- Backend Engineering
+- Distributed Systems
+- Data Engineering & Analytics
+- AI/ML Applications
+- System Design
+- Developer Tooling
+- Cloud & Infrastructure
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 Portfolio: `https://neelprajapati.netlify.app`
+- 💼 LinkedIn: `https://www.linkedin.com/in/neel-prajapati-3337b9289/`
+- 📧 Email: `neelp6911@gmail.com`
+
+---
+
+I’m always interested in collaborating on impactful engineering projects, discussing backend systems and analytics, or connecting with developers working on interesting technical problems.
