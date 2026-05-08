@@ -110,7 +110,7 @@ Designed a predictive maintenance system for Toronto transit focused on **sensor
 
 |   |   |
 |---|---|
-| 📧 Email | [NPRAJAPATI@TORONTOMU.CA](mailto:nprajapti@torontomu.ca) |
+| 📧 Email | [nprajapati@torontomu.ca](mailto:nprajapti@torontomu.ca) |
 | 💼 LinkedIn | [https://www.linkedin.com/in/neel-prajapati-3337b9289/](https://www.linkedin.com/in/neel-prajapati-3337b9289/) |
 | 🌐 Portfolio | [https://neelprajapati.netlify.app](https://neelprajapati.netlify.app) |
 
