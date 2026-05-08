@@ -1,6 +1,4 @@
-<p align="center">
 **Hey, I'm Neel 👋**
-</p>
 ================
 
 ### CS Student @ TMU · Backend & Data Engineering · AI Builder
@@ -9,7 +7,6 @@
 <a href="https://neelprajapati.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-</p>
   <a href="https://www.linkedin.com/in/neel-prajapati-3337b9289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
