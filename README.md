@@ -110,8 +110,8 @@ Designed a predictive maintenance system for Toronto transit focused on **sensor
 
 |   |   |
 |---|---|
-| 📧 Email | [YOUR_EMAIL_HERE](mailto:nprajapti@torontomu.ca) |
-| 💼 LinkedIn | [https://linkedin.com/in/YOUR_HANDLE_HERE](https://www.linkedin.com/in/neel-prajapati-3337b9289/) |
+| 📧 Email | [NPRAJAPATI@TORONTOMU.CA](mailto:nprajapti@torontomu.ca) |
+| 💼 LinkedIn | [https://www.linkedin.com/in/neel-prajapati-3337b9289/](https://www.linkedin.com/in/neel-prajapati-3337b9289/) |
 | 🌐 Portfolio | [https://neelprajapati.netlify.app](https://neelprajapati.netlify.app) |
 
 Open to **backend, data engineering, and systems‑focused internship roles** for Fall 2026.
