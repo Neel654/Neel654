@@ -1,4 +1,6 @@
-<p align="center">Hey, I'm Neel 👋</p>
+<p align="center">
+  Hey, I'm Neel 👋
+</p>
 ================
 
 ### CS Student @ TMU · Backend & Data Engineering · AI Builder
