@@ -1,7 +1,7 @@
-**Hey, I'm Neel 👋**
+<p align="center"> **Hey, I'm Neel 👋**
 ================
 
-### CS Student @ TMU · Backend & Data Engineering · AI Builder
+### CS Student @ TMU · Backend & Data Engineering · AI Builder </p>
 
 <p align="center">
 <a href="https://neelprajapati.netlify.app">
