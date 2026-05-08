@@ -3,13 +3,23 @@ Hey, I'm Neel 👋
 
 ### CS Student @ TMU · Backend & Data Engineering · AI Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-neelprajapati.netlify.app-0b7285?style=for-the-badge&logo=vercel&logoColor=white)](https://neelprajapati.netlify.app)
+<p align="center">
+  <a href="https://neelprajapati.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neel--prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-prajapati-3337b9289/)
+  <a href="https://www.linkedin.com/in/neel-prajapati-3337b9289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-nprajapati@torontomu.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nprajapati@torontomu.ca)
+  <a href="mailto:nprajapati@torontomu.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Neel654-181717?style=for-the-badge&logo=github)](https://github.com/Neel654)
+  <a href="https://github.com/Neel654">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 🧠 Who I am
 -----------
