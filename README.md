@@ -24,9 +24,9 @@
 
 ## 🧠 Who I am
 
-I'm a Computer Science student at **Toronto Metropolitan University** who believes in building **systems that actually work** – not toy demos, but production-ready services, data pipelines, and apps that solve real problems.
+I'm a Computer Science student at **Toronto Metropolitan University** who believes in building **systems that actually work** – not toy demos, but production-ready services, data pipelines, and real-world automation.
 
-I've shipped automation into real business environments, built AI-powered safety and analytics projects, and gone deep into distributed systems, event-driven architectures, and storage engines. I learn fast, think systems-first, and care about clean code and maintainability.
+I've shipped automation into real business environments, built AI-powered safety and analytics projects, and gone deep into distributed systems, event-driven architectures, and storage engines. I'm passionate about backend engineering, data pipelines, and building systems at scale.
 
 > 💼 **Actively seeking Fall 2026 internships** – Backend Engineering · Data Engineering · Applied AI / ML
 
@@ -59,9 +59,10 @@ I've shipped automation into real business environments, built AI-powered safety
 
 |   |   |
 |---|---|
-| 🛡️ **[SafeSense](https://github.com/Neel654/SafeSense)** — Browser-Based AI Safety Assistant | Runs entirely in the browser using MediaPipe, device motion sensors, and Web Speech API to deliver three modes: **GYM** (form correction for workout safety), **DRIVE** (distraction/drowsiness detection), and **HOME** (fall detection for seniors). Winner at TELUS AI at the Edge Hackathon. Uses only client-side processing for privacy. |
-| 💳 **[Forage-Midas_654](https://github.com/Neel654/Forage-Midas_654)** — Event-Driven Transaction Microservice | Spring Boot microservice built for the JP Morgan Forage program that consumes Kafka transaction events in real-time, maintains account balances, and handles concurrent transactions. Demonstrates event-driven architecture, data consistency, and high-throughput message processing. |
-| 💬 **[AI MUSE](https://github.com/Neel654/AI_MUSE)** — Voice-First AI Companion (Featured Above) | Conversational assistant with speech integration, built with FastAPI backend, React Native/Expo frontend. Full-stack integration of AI models with mobile UX. Production-ready monorepo structure. |
+| 🛡️ **[SafeSense](https://github.com/Neel654/SafeSense)** — Browser-Based AI Safety Assistant | Runs entirely in the browser using MediaPipe, device motion sensors, and Web Speech API to deliver real-time safety monitoring for fitness, driving, and fall detection. |
+| 🔗 **[URL Shortener with Click Analytics](https://github.com/Neel654/URL-Shortener-with-Click-Analytics)** — REST API with Real-Time Analytics | Built a production-ready URL shortening service with click tracking, analytics aggregation, and indexed PostgreSQL schema. Implements Base62 encoding, parameterized queries for security, and efficient analytics queries. **[Live Demo](https://url-shortener-with-click-analytics.onrender.com/)** |
+| 💳 **[Forage-Midas_654](https://github.com/Neel654/Forage-Midas_654)** — Event-Driven Transaction Microservice | Spring Boot microservice built for the JP Morgan Forage program that consumes external service data and orchestrates complex workflows. |
+| 💬 **[AI MUSE](https://github.com/Neel654/AI_MUSE)** — Voice-First AI Companion (Featured Above) | Conversational assistant with speech integration, built with FastAPI backend, React Native/Expo frontend, and persistent conversation memory. |
 
 ---
 
@@ -81,6 +82,8 @@ I've shipped automation into real business environments, built AI-powered safety
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge)
 
@@ -105,6 +108,7 @@ I've shipped automation into real business environments, built AI-powered safety
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -116,7 +120,7 @@ I've shipped automation into real business environments, built AI-powered safety
 
 ### Software & IT Systems Intern — Quality Cheese Inc.
 
-Built **Python + SQL automation workflows** integrated with Azure and Microsoft 365 to eliminate manual reporting bottlenecks and improve data reliability. Designed maintainable ETL pipelines that handled thousands of daily records from disparate sources, reducing reporting time by ~80% while improving accuracy.
+Built **Python + SQL automation workflows** integrated with Azure and Microsoft 365 to eliminate manual reporting bottlenecks and improve data reliability. Designed maintainable ETL pipelines that handle complex business logic and real-world data quirks.
 
 **Key contributions:**
 - Designed and deployed production Python automation scripts
@@ -126,7 +130,7 @@ Built **Python + SQL automation workflows** integrated with Azure and Microsoft 
 
 ### Software Automation & Data Intern — Meghal Road Equipment
 
-Developed **KPI reporting and data validation pipelines** in Python/SQL to process noisy, real-world operational data. Learned to design systems for changing requirements, imperfect inputs, and production constraints. Built validation frameworks to ensure data quality before downstream analytics.
+Developed **KPI reporting and data validation pipelines** in Python/SQL to process noisy, real-world operational data. Learned to design systems for changing requirements, imperfect inputs, and production constraints.
 
 **Key contributions:**
 - Engineered robust data validation pipelines handling messy operational data
@@ -140,13 +144,13 @@ Developed **KPI reporting and data validation pipelines** in Python/SQL to proce
 
 ### SafeSense — TELUS AI at the Edge Hackathon — **Winner** 🏆
 
-Built a **browser-based AI safety platform** using MediaPipe, webcam input, device motion sensors, and Web Speech API. Three operational modes: form correction for gym safety, distraction/drowsiness detection while driving, and fall detection for seniors at home. **Fully client-side processing** for privacy.
+Built a **browser-based AI safety platform** using MediaPipe, webcam input, device motion sensors, and Web Speech API. Three operational modes: form correction for gym safety, distraction/drowsiness detection for drivers, and real-time fall detection.
 
 **Tech:** MediaPipe, Web APIs, Motion Sensors, Voice Processing, React
 
 ### TTCare — UofT Invisible AI Hackathon
 
-Designed a **predictive maintenance system** for Toronto Transit focused on sensor-driven anomaly detection and scheduling optimization. Emphasized system design, data flows, and operational feasibility over flashy demos.
+Designed a **predictive maintenance system** for Toronto Transit focused on sensor-driven anomaly detection and scheduling optimization. Emphasized system design, data flows, and operational feasibility.
 
 **Tech:** Anomaly Detection, Sensor Data Processing, Time-Series Analysis
 
